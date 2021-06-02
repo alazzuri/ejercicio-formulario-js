@@ -6,6 +6,8 @@ La consigna del ejercicio, consiste en recuperar cada uno de dichos valores util
 
 Para ello, deberas examinar y prestar atención a los distintos tags html y sus distintas propiedades, para ver de que manera puedes seleccionar cada elemento mediante javascript. 👀 👀 👀
 
+Para resolver este ejercicio, deberas escribir tu código en el archivo index.js que se encuentra dentro de la carpeta ```scripts```
+
 ## Ejemplo:
 
 Al completar el form de la siguiente manera:
@@ -14,5 +16,7 @@ Al completar el form de la siguiente manera:
 
 Se debera obtener el siguiente resultado:
 <img src="./assets/response.png">
+
+
 
 A programar! 💻
